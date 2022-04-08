@@ -186,7 +186,7 @@ Steps performed:
   - 95.8% on emails content with quotations and domains (EQD) content classification experiment 
 which outperforms results presented in the SoA papers published on this task. 
 
-## Suggestions for further improvements:
+## Suggestions for further improvements
 
 1. Collect additional labeled email and other conversational datasets from business environments
 
