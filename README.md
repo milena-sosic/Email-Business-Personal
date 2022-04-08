@@ -47,7 +47,8 @@ Identifying and understanding informal communication in business environments co
 
 Run `pipeline.py` script with different arguments for data preprocessing, features extraction, text representation and model building:
 
-```python -u pipeline.py \
+``` 
+python -u pipeline.py \
     --train_id $TRAIN_ID \
     --test_id $TEST_ID \
     --experiment $EXPERIMENT \
