@@ -1,0 +1,922 @@
+ability,skill,intelligence,competence,experience,expertise,capability
+accelerate,hasten,increase,expedite
+acceptable,reasonable,fair,appropriate
+access,permission,entry,obtain
+accessible,reachable,available,easily entered
+accommodation,arrangement,agreement,place
+account,statement,description,report,facts
+accountability,responsibility,duty,expectation,contract,deliverable,deliverables
+accountable,responsible,answerable,explainable,duty-bound
+accrue,increase,accumulate,grow,collect
+achievement,goal,objective,target
+acquire,obtain,buy,gain,procure,get,take over
+act,deed,perform,execute,procedure
+activity,action,job,duty
+adapt,change,modify,adjust,alter
+add,increase,calculate,attach
+adjourn,pause,break,take a break,finish
+adjunct,attachment,supplement,addendum
+adjust,change,alter,rectify,amend,modify,make more suitable
+adopt,accept,use,buy
+adverse,negative,hostile,opposed,unfavorable
+advice,input,help,assistance,recommendation,suggestion,feedback
+advise,inform,help,tell,post,brief,notify,counsel,instruct
+agency,organisation,service provider,representative organization
+agenda,list,schedule,program,programme,concerns,motive,motives,wish-list,drivers,expectation,expectations
+agent,contractor,operator,dealer,representative,middle-man
+aggressive,determined,firm,pushy,vigorous
+agreement,arrangement,promise,contract,understanding
+aid,help,assistance,support
+aim,goal,purpose,objective,intention
+alliance,agreement,partnership
+allot,share,apportion,distribute,allocate
+allow,permit,let,agree,grant,concede
+amass,collect,gather,store,accumulate
+ambition,goal,desire,aspiration,hope,vision
+amend,alter,change,correct,rectify,adjust,revise
+amount,quantity,sum
+analyse,examine,study,analyze
+analysis,examination,study,exploration,assessment,calculation
+annul,invalidate,cancel,dissolve,make void,nullify
+appeal,request,plea,ask,attraction
+application,request,use (of something)
+appoint,choose,pick,elect,select
+apportion,divide,share,allocate,distribute
+appraise,judge,consider,examine,assess,review
+appropriate,save,take,seize,keep
+approval,agreement,permission,consent,endorsement
+approve,agree,allow,permit,accept,grant endorse
+aptitude,ability,skill,leaning,gift,talent
+archive,collection,collect,store,file,documentation
+arrange,plan,formulate,set,order,structure,manage,organise,organize
+array,collection,group,number
+article,item,piece,thing,legal document
+assemble,gather,collect,compile,fit together
+assess,calculate,judge,measure,form an opinion,gauge,analyze
+assessment,opinion,judgment,calculation,estimate
+associate,colleague,member,co-worker,partner,business partner,contractor
+assured,certain,definite
+attach,join,connect,fasten,add
+attribute,quality,feature,speciality,credit,specialty
+authorise,allow,permit,grant,authorize
+authority,power,permission,control,sway,leading
+available,free,ready,potential,offered,on offer
+average,typical,normal,usual,mean,medium,standard,par
+backup,copy,help,extra,contingency
+bail out,rescue,leave
+balance,remainder,amount owed,adjust,correlate,equalise,equalize
+balloon,grow,expand,swell,enlarge
+ban,disallow,bar,exclude,prohibit,embargo
+bank,collect,store
+barrier,problem,restriction,obstacle
+basic,fundamental,intrinsic,foundational,simple
+basis,reason why,motive,grounds
+batch,group,collection,bundle,pack
+battle,competition,struggle,argument,effort
+beat,defeat,outdo,win,exceed,surpass
+beleaguered,beset,experiencing difficulties,isolated,stranded,criticised,criticized
+bespoke,tailor-made,made to measure
+bet,gamble,risk,be rash,venture
+bias,against,towards,tendency
+bid,offer,attempt,tender
+books,accounts
+boost,increase,improve,strengthen,augment
+boycott,avoid,refuse,shun
+brand,type,design,kind,sort,trademark
+branded,labelled,well-known,named,patented,labeled
+breakdown,fail,failure,end,list of details
+breakthrough,discovery,development,emerge
+brief,instructions,explanation,summary,inform,short,concise,quick
+build,increase,develop,progress,create
+bulletin,report
+burden,duty,responsibility,onus,difficulty
+burgeon,rapidly grow,develop,escalate,swell
+business,company,organisation,work,commerce,trade,affairs,organization,venture,corporation,enterprise,concern,activity
+buy,purchase,invest
+buyer,purchaser,investor,customer
+cancel,annul,discontinue,call off,stop,nullify
+candidate,applicant,contender,entrant
+cap,limit,surpass
+caretaker,custodian,janitor
+cargo,goods,freight,supplies,wares
+catalogue,list,record,catalog
+category,group,classification
+cater,provide,supply
+ceiling,limit,restriction,largest amount
+certification,qualification,authentication
+certify,authenticate,confirm,state officially
+chain,group,series,line
+change,alter,amend,replace,modulate,make different
+channel,route,direct
+charge,claim,accuse,responsibility
+chart,list,diagram,graph,draw
+charter,hire,lease,rent,record,permit written statement
+chartered,qualified,hired,rented,leased
+cheat,trick,deceive,defraud
+check,stop,control,examine,investigate,halt make certain
+chief,main,head,most important,highest ranking
+choice,selection,range,option,good quality
+circular,advertisement,publication,notice,letter,leaflet,notice,notification,flyer
+circulate,spread,publish,pass round
+claim,demand,request,state officially,state,legal right
+classify,class,order,group together,categorise,categorize
+clean,honest,harmless,debt-free,reliable (goods)
+clear,remove,approve,finish,obvious,intelligible make sense
+clearance,permission,sanction,leave
+clientele,customers,clients,trade
+clone,replicate,duplicate,exact copy
+close,finish,cease,end activity,stop operating
+collect,gather,obtain,bring together
+combine,join,unite,put together
+command,order,instruction,dominate
+commerce,business,trade
+commitment,promise,loyalty,agreement,duty,willingness
+commute,journey,travel a regular route
+company,business,organisation,corporation organization
+compete,contend,vie
+competence,ability,skill,knowledge,proficiency
+competent,able,skillful,proficient,knowledgeable
+compile,list,compose
+compliance,obedience,submission
+complimentary,gratis,free
+component,part,factor,element,feature,piece,item
+comprise,consist of,include,have,made from
+compulsory,obligatory,binding,incumbent,mandatory
+con,trick,cheat,deceive,defraud,negative
+concept,idea,principle,understanding
+concession,compromise,trade,exchange,reduction in price,movement
+conduct,behaviour,bearing,demeanour,attitude,guide,manage,behavior,demeanor
+confer,discuss,consult,reward,bestow,give
+conference,meeting,discussion,talks,debate,forum,inquiry
+confidence,trust,belief,positiveness,a secret,assurance
+confidential,private,secret,off the record
+conform,obey,adapt oneself,accommodate
+connect,join,link,attach,contact
+consensus,general view,agreement
+consolidate, combine,centralise,centralize
+construct,build,make,formulate,erect
+consultant,expert,troubleshooter,adviser,advisor
+consumer,purchaser,buyer,user
+content,parts,structure,information
+contract,agreement,terms,engage
+control,restrict,limit,manage,power,influence restrain rule over
+convene,meet,gather together,organise a meeting
+convention,meeting,gathering of people conference,practice conformity
+convert,change,modify
+core,main,centre,essential,essence,important
+corporation,company,business,venture,enterprise
+correspondence,communication,letters,email,similarity,symmetry
+corresponding,matching,connected,correlating,opposite
+corrupt,dishonest,illegal,immoral,illicit,flawed,incorrect information,pervert,spoil,ruin
+costing,estimating,pricing,cost,price,value,valuation,quote,quotation
+counsel,adviser,lawyer
+counsellor,troubleshooter,advisor,adviser,counselor
+counterfeit,fake,forgery
+coupon,voucher
+cover,include,protect,conceal,provide
+credentials,qualities,experience,references,endorsements
+crude,simple,inaccurate,makeshift,improvised,improvized
+curb,control,limit,restrain,moderate
+current,present,existing,topical
+curtail,limit,reduce,shorten,cut
+customer,buyer,purchaser,client,patron
+data,facts,information,evidence
+dealer,trader,merchant
+declaration,affirmation,official,statement
+declare,state,announce,tell,divulge
+decline,weaken,shrink,decrease
+decouple,disconnect
+decree,official order,decide,decision
+deduct,take away,subtract
+deed,action,action,written agreement
+deep,serious,extreme,profound
+defect,fault,imperfection,shortfall,leave
+defective,faulty,imperfect,incomplete
+defend,protect,resist
+defer,delay,put off
+deficiency,lack,shortfall,defect,insufficiency
+deflate,reduce,lessen,make smaller,ridicule
+defraud,trick,be dishonest,obtain money illegally
+defray,provide money
+defunct,unused,extinct,dead,no longer existing
+degrade,worsen,impair,disrespect
+delete,remove,erase,obliterate,stop making
+deliver,provide,produce,achieve,give
+demand,firm request,order,require,claim
+demonstrate,show,explain,prove
+demonstration,explanation,proof
+depart,exit,leave,go
+dependent,controlled,connected,supported,reliant
+deplete,reduce,waste,use up,exhaust
+depreciate,detract,decrease in value,demonetise,demonetize,amortise,amortize
+deputy,stand-in,substitute,proxy
+design,plan,prototype,pattern,make,artwork
+develop,grow,advance,produce,build,create become
+device,object,tool
+devise,plan,think of,invent,originate,conceive,innovate,create,conceptualise,conceptualize
+diagram,drawing,plan,representation,picture,sketch,blueprint,map,image
+dictate,control,influence,dominate
+digit,number,character,finger
+dilute,reduce,lessen effectiveness weaken
+dimension,size,aspect
+directory,list,listing,database
+disallow,prohibit,exclude,refuse permission
+discharge,sack,remove,carry out, duty
+disclose,tell,reveal,expose
+discontinue,stop,terminate
+discount,ignore,disregard,reduction,price
+discrepancy,disagreement,difference between two amounts
+disintegrate,deteriorate
+dismiss,remove (person),sack,disregard,reject
+dispatch,send,report
+display,show,exhibit,arrange
+dispose,sell,get rid of
+dispute,disagreement,argument,quarrel,argue
+disqualify,prevent,exclude,ban,outlaw,reject
+dissolve,cease,cancel
+distribute,supply,give,apportion,share out
+diversify,modify,adapt,extend activities
+divest,sell,get rid of,dispose of
+division,unit,section,classification
+doable,achievable,possible,can be done,viable,practical,practicable,feasible
+docket,label,record,ticket
+document,record,official paper
+dodge,avoid,elude,evade
+dominant,powerful,important,main,influential
+dominate,control,influence
+donate,give
+done,completed,finished,ended
+downgrade,reduce status,reduce value,make less important
+driven,compelled,influenced
+driver,a resource,process,condition, business
+drop,weaken,lower,decrease,reduce,fall discontinue
+duplicate,copy,reproduce
+durable,strong,tough,Long-lasting
+duress,threat,force
+duty,obligation,task,work,job,tax necessity
+earnings,profit,wages,salary,income
+economic,profitable,cost-effective,viable,financial,commercial,trading
+economical,good value,cheap,low-budget,affordable
+edge,advantage,brink
+effective,productive,successful,forceful,advisable
+efficient,operative,not wasteful,skillful
+elect,choose,vote for,chosen
+eligible,included
+emerge,appear,be disclosed
+employ,use,engage,recruit,hire
+employee,worker,staff member
+emporium,shop,department store,depot
+enable,empower,permit,facilitate
+endorse,support,approve
+enhance,improve,highlight
+enquire,ask,find out,inquire
+enquiry,question,request,information, refi,inquiry
+entitlement,claim,official right
+equipment,tools,machinery,wherewithal
+equity,money,capital,funds,asset,share
+erode,weaken,impair,reduce
+error,mistake,misjudgment
+escalate,increase,grow,make more serious
+establish,create,start,become successful demonstrate
+ethic,moral,principle
+ethical,right,morally correct or acceptable
+etiquette,protocol,convention,rules,behavior
+evade,avoid,elude
+evaluate,appraise,estimate,guess,assess
+evaluation,opinion
+evolve,develop gradually,become,unfold
+exceed,outdo,be superior,overstep
+exceptional,outstanding,unusually good,very unusual
+excessive,exorbitant,unwarranted,superfluous,unreasonably high
+execute,do,carry out,act,perform action or task
+exercise,activity,keep fit,work-out,act,invoke,apply
+exhibition,show,display,presentation
+exit,leave,quit,sell
+exorbitant,overpriced,dear,extortionate
+expand,grow,broaden,increase
+experience,skill,knowledge,wisdom
+expert,ace,skilled,proficient
+expire,end,finish,elapse
+explain,justify,account for,interpret
+exploit,treat,unfairly,misuse
+extend,lengthen,expand,lengthen,longer
+facilities,buildings,services,equipment,means,scope
+facility,building,factory,convenience,ease
+factor,quality,feature,component,cause,influence
+failed,unsuccessful,fallen short
+fair,acceptable,appropriate,just,honorable
+fake,false,not genuine,imitation,sham
+fall,decrease,drop,descend,fail
+wrong,incorrect,not genuine,erroneous,faulty
+imperfect,incorrect,inexact,feasible
+possible,achievable,fee
+charge (money),feed
+supply,provide,fickle
+changeable,unreliable,finish,cease,end activity,stop operating
+standards,rules,regulations,firm
+business,company,fixed
+set,unchanging,habitual,flag
+tire,weaken,mark (something),flaw
+mistake,imperfection,weakness,flood
+deluge,numerous,many,flop
+failure,washout,non-event,damp squib,flourish
+grow,develop,prosper,fruitful,flyer
+leaflet,force
+influence,power,energy,strength,personnel,forecast
+predict,foretell,formal
+official,correct,suitable,format
+arrangement,plan,design,formulate
+create,prepare,arrange,foundation
+basis,source,beginning,fractional
+unimportant,very small,freight
+cargo,goods,merchandise,functional
+working,practical,useful,instrumental,furnish
+supply,provide,make ready,futile
+useless,absurd,pointless,gamble
+risk,speculate,uncertainty,gap
+space,difference,requirement,gauge
+measure,estimate,judge,generate
+produce,create,cause,generic
+standard,unbranded,get
+obtain,receive,understand,gimmick
+trick,novelty,contrivance,glitch
+problem,fault,global
+worldwide,universal,inclusive,goal
+aim,objective,ultimate,goods
+products,merchandise,governance
+control,power,grant
+allow,permit,permission,consent,graph
+plan,graphic
+descriptive,representing,gratis
+free,uncharged,grievance
+complaint,discontent,ground
+reason,basis,educate,grounding
+training,knowledge,grow
+increase,expand,mature,guarantee
+Promise,safeguard,agreement,certain,deal
+guest,visitor
+guidance,help,advice,instructions,tips
+guru,expert,sage,haggle
+argue,barter,bargain
+hallmark,sign,feature,indication,standard,quality,halo-effect
+feelgood factor,positive reflection,positive association,reflected glory,hand-holding
+supporting,buddying,supervising,helping,handbook
+manual,instructions,notes,guide,handle
+deal with,manage,be responsible for,organise,organize,handmade
+unique,individual,bespoke,high quality,exclusive,labour intensive,labor intensive,made by hand not machine or automated,harass
+upset,annoy,frighten,intimidate,bully,exert force upon,pressurise,pressurize
+hard-copy,paper,printed,format
+selling,pressure,persuasion,hardball
+aggression,firmness,determination,harmonise
+combine,integrate,harmonize,harvest
+profit,reward,reap reward,milk,exploit,monetise,monetize,haulier
+transporter,carrier of goods,hazard
+danger,obstacle,gamble,risk,obstacle,threat,hazardous
+dangerous,damaging,head-to-head
+confrontation,standoff,battle,fight,argument,debate (between two parties),headcount
+employees,workforce,staff,team,labour force,labor force,workgroup
+headline,main,overall,total,story,message
+heads-up,warning,brief update,short report
+headway,gain,progress,increase,rise,improvement
+heartland,centre,focus,epicentre,middle,core,heart,heartlands
+hedge,reduce,risk,offset,protect
+help,aid,support,assist,buddy,mentor,guide,teach,assistance,oversee,facilitate,enable
+helpdesk,service,assistance,support,information
+hierarchy,structure,order,management,organizational,taxonomy,grouping,classification,system
+highlight,emphasise,indicate,emphasize
+hire,employ,rent,lease
+hitch,problem,difficulty,hone
+develop,improve,sharpen,hostile
+unfriendly,adverse,attacking
+hub,centre,focus,chief thing center
+hypothetical,suppositional,imaginary
+identify,find,discover
+illegal,unlawful,prohibited,illicit,disallowed
+image,impression,picture,copy,reflection
+impact,influence,importance
+imperfection,weakness,fault,blemish
+improper,dishonest,inappropriate,inapt,disreputable
+imprudent,unwise,sensible,careless,risky,reckless
+inactive,idle,inert,working
+inadmissible,disallowed,excluded
+incentive,inducement,reward,motivation
+incentivise,encourage,offer,reward,incentivize
+income,earnings,wages,salary
+incoming,arriving,received
+incompetence,skill,ability
+independent,unconnected,uncontrolled,unsupported,unrelated
+indicate,point,sign,show
+indicative,showing,suggesting,evidential
+inefficient,wasteful,unskillful,useless
+ineligible,unqualified,rejected
+inertia,inactivity,indifference
+inflate,increase,enlarge
+inflexible,rigid,unchangeable,unbendable,obstinate
+influence,motivate,modify,bias,authority
+inform,tell,relate,influence,educate
+information,facts,details,data
+inoperative,invalid,unusable,powerless,working
+inspect,check,scan,look
+instruct,tell,teach,train,inform,command
+instruction,information,command
+integrate,combine,put together
+integrated,connected,combined
+interim,lull,short-term,not permanent
+intermediary,middleman,mediator,facilitator
+invalid,incorrect,unwarranted,unacceptable
+item,object,article,component
+itinerary,schedule,journey,plan,travel,route,roadmap
+jettison,reject,eject,get rid of
+job,opening,position,opportunity,task,duty
+jobless,unemployed,inactive
+join,connected,fix,enroll,meet,together,member
+judge,decide,arbitrate,opinion,adjudicate
+jump,rise,increase,leap,interval
+jumpy,nervous,anxious,agitated
+justify,explain,demonstrate,warrant
+keen,eager,sharp,competitive,willing
+key,essential,important,main,crucial,influential
+keynote,important
+kill,spoil,destroy,stop
+kit,tools,equipment,materials,parts
+know-how,knowledge,experience,means,skill,knowledge
+information,skills,understanding,comprehension,mastery,kudos
+prestige,esteem
+label,tag,brand,mark,identification,landmark
+important event or achievement or matter,languish
+fail,become weaker,be affected,latent
+concealed,lurking,lateral
+sideways thinking,different perspective,lawful
+legal,licit,legitimate,lead
+control,ahead,guide,advantage,direct,leading
+best,managing,inspiring,learning
+development,teaching,coaching,growth,edification,knowledge,experience,discovery,lease
+rent,hire,
+legible,readable,intelligible,understandable
+legislation,law,regulation,legitimate
+legal,genuine,legally,acceptable
+leverage,influence
+liable,responsible,legally responsible,punishable,exposed,vulnerable
+limit,restrict,restrain,restriction,bind
+link,connect,join,relationship,communicate,intermediary
+log,record,gauge,documentation,diary,journal
+logic,reason,reasoning,rationality
+loom,threaten,impend,low-end
+cheap,inexpensive
+loyal,faithful,trustworthy,lucrative
+profit-making,gainful,money-making,lure
+persuade,entice,tempt
+magnate,tycoon,mogul,business,chief
+mainstream,usual,normal,main,tendency,mass
+maintain,keep,continue,record,check,support,sustain,provide
+majority,largest,greatest part,main part,make
+create,form,build,produce,compel constitute,makeover
+changeable,improve,malfunction
+fail,stall,break down,manage
+control,run,undertake,supervise,conduct
+manager,boss,head,director,controller
+mandate,official order or instruction charge,trust
+mandatory,must-do,required by law,obligatory,compulsory,unavoidable,necessary
+manipulate,control,influence,deceive,operate,misuse
+manufacture,production,create,produce
+marginal,small,unimportant,inconsiderable,insignificant,
+marginally,slightly,insignificantly
+mark-up,increase,price,overcharge,markdown
+cheapen,reduce price,marketable
+easy to sell,saleable,attractive to employers or customers salable,marketeer
+seller,salesperson,mature
+experienced,well-developed,well-established,maximum
+greatest,largest,most,meagre
+small quantity,poor quality,economical meager,mean
+average,middle,mediate
+moderate,intervene,negotiate,arbitrate,mediocre
+average,not very good,middling,inferior,mega
+impressive,greatest part,very large,memo
+note,reminder,memorandum
+report,proposal,record,menial
+inferior,unskilled (work),merchandise
+goods,products,merchandising,selling
+merge,combine,mix
+middleman,intermediary,mediator,agent,milestone
+important stage or event
+mindset,attitude,fixed ideas,minimal
+lesser,smallest or least amount,minimum
+smallest or lowest possible,minted
+recently produced or created very rich,miscellaneous
+various,mixed,non-uniform,misconduct
+malpractice,bad management,unacceptable behaviour,unacceptable behavior,mission
+aim,goal,vocation,important job,mobile
+moveable,transportable,moving,model
+design,copy,prototype,form an opinion,moderate
+reasonable,average,mild,middle of the road,moderator
+intermediary,referee,mediator,modify
+changeable,alter,vary,make more suitable,monitor
+check,watch (something),moribund
+ineffective,inactive,dying,likely to fail,motion
+proposal,motivate
+encourage,push,mushroom
+multiply,develop quickly,rapidly grow or increase,name
+brand,repute,well-known person or company or product,need
+requirement,require,shortfall,negligible
+unimportant,inconsiderable,negotiate
+make terms,discuss,negotiations
+formal discussions,conference,no-frills
+basic,unadorned,nominal
+very small,insubstantial,trivial,in name only,,nominate
+suggest,choose,select,nosedive
+descent,sudden drop or fall,notable
+noteworthy,person of repute,outstanding,remarkable,unforgettable,notional
+estimated,guessed,suppositional,novel
+new,interesting,amusing,nullify
+invalidate,extinguish,number one
+most important,best,premier,self,oath
+promise,testimony,true statement,object
+item,thing,purpose,goal,disagree,objective
+aim,goal,obligation
+duty,promise,necessity,observe
+watch,study,see,observer
+watcher,spectator,obsolete
+outdated,disused,no longer in use,occupation
+job,profession,interests,offend
+upset someone,commit crime,displease,official
+formal,authoritative,genuine,businesslike,authorised,authorized,opening
+opportunity,job,starting,operate
+control,use,work,function,operation
+business,activity,undertaking,opinion
+idea,conviction,persuasion,point of view,opportunity
+opening,possibility,scope,chance,optimal
+best,most likely to succeed,option
+choice,decision,pick,order
+request,demand,instruction,command,require,organisation
+business,company,group,structure,corporation,organization,organise
+arrange,plan,compose,organize,origin
+source,starting place,oust
+eject,force out,outcome
+result,effect,outdated
+outmoded,antiquated,old-fashioned,outline
+description,overview,main points or facts,outstanding
+notable,superior,not yet paid or done or solved,overachieve
+do better than expected
+overhype,exaggerate
+override,overrule,stop,reject,decision,order
+oversee,supervise,watch,manage,oversight
+mistake,negligence,forget,overview
+outline,general description
+pact,agreement,promise,handshake
+par,equivalence,expectation,forecast,standard,parameter
+limit,target,border,guideline,constraint,measure,parcel
+package,apportion,piece,pare
+cut,reduce gradually,parity
+similarity,being equal,balance,equality,partial
+incomplete,fractional,in part,participate
+cooperate,take part in,collaborate,partner,particular
+specific,certain,particulars
+details,information,description,patronage
+support,protection,influence,custom,payback
+reward,advantage,return,just desert
+pending,waiting,undecided,in process,happening,soon
+perform,do,act,entertain
+peripheral,unimportant,marginal,external,outside,perk
+bonus,reward,benefit,permit
+allow,let,grant,persuade, permission
+press,urge,convince,induce,cajole,pressurise,pressurize,sell,phase
+stage,aspect,step,section,pick
+choose,opt,take,select,selection,choice,picket
+protest,obstruct,demonstrate,be obstructive,pigeonhole
+classification,compartment,put into a particular group,categorise,categorize,pilfer
+steal,thieve,rob,pitfall
+difficulty,danger,peril,trap,placement
+job,location,plan
+chart,diagram,drawing,plot,vision,envision,intention,detailed arrangements,blueprint,plateau
+level out,flatten,stabilise,stabilize,platform
+basis,policy,standpoint,pledge
+promise,formal promise,oath,bequeath,bequest,bequeathment,plummet
+plunge,founder,fall suddenly,plunge
+plummet,descend rapidly,pointer
+sign,indication,indicator,policy
+course of action,contract of insurance procedure
+pool,group,collection,store,joint possession,portable
+moveable,transferable,easily carried,portion
+part (of a whole),position
+place,job,opinion,prestige,positive
+goods,useful,affirmative,believing,possessor
+owner,holder,post
+mail,job,situation,subsequent,after or later than,publish,announce,,postpone
+defer,delay,put off until later,potential
+possible,qualities that can be developed,power
+control,influence,strength,energy,operate,authority,practice
+action,custom,habitual,exercise,etiquette,usual way of doing something,practise
+rehearse,repeat,act,do,behave,precise
+exact,accurate,definite,prefer
+choose,like better,preferential
+giving an advantage to,prejudice
+unreasonable dislike bigotry,have a harmful effect on,premier
+most important,most successful,first showing of something,presentation
+speech,show,formal introduction,press
+persuade,push,request,prestige
+respect,admiration,influence,importance,prestigious
+admired,respected,important luxury,presumption
+supposition,prevail
+outweigh,override,prevailing
+existing,prevalent
+very common,extensive,universal,prey
+easy target,victim,prey on
+ill-treat,exploit,cause harm,con,trick,priceless
+extremely valuable,important,very precious,pricey
+expensive,dear,primary
+main,fundamental,simple,most important,prime
+main,most important,primary,excellent,principal
+main,most important,rule,director,in general law,prior
+previous to,previously,before,earlier,happening or existing before,prioritise
+rank,put in order of importance,prioritize,priority
+most important,precedence,to be dealt with first,privilege
+special right or advantage,privileged
+confidential information,prize
+award,very valuable,desired object,probe
+investigate,inquiry,ask questions,procedure
+policy,usual or correct way of doing things,proceed
+begin,starting place,commence,progress,productive
+growing,making,gainful,profitable,achieving or doing a lot,profession
+skilled job,vocation,trade,skill,qualification,proficient
+able,skilled,practised,competent,profile
+description,outline,shape,visibility,reputation,profitable
+advantageous,prolific,money-making,viable,economical,rewarding,programme
+program,schedule,agenda,course,itinerary,progress
+develop,go forward,improve,improvement,prohibit
+stop,prevent,restrain,bar,ban,promote
+upgrade,make better,put forward,advance,advertise,market,sell,prompt
+punctual,without delay,hint,remind,proportion
+portion,part or share of a whole,proposal
+plan,request,intention,formal suggestion,proposition
+plan of action,business idea,proprietor
+owner of business or land or property,etc.,prospective
+potential,future,expected or likely to happen,prosper
+flourish,be successful,develop successfully,provide
+stipulate,give,make available,prudence
+conservatism,caution,avoiding unnecessary risks,prudent
+careful,sensible when making decisions showing care and though for the future,pull
+influence,attract interest,cancel an event,punctual
+on time,purchase
+buy,pursue
+follow,chase up,qualified
+experienced,knowledgeable,skilled,expert,prepared completed training passed exams,quality
+high standard,feature,aspect,character,quantity
+amount,number,quarantine
+protection,seclusion,quarter
+district,place,period of three months mercy,quasi
+almost,partly,similar,query
+question,ask,doubt,questionable
+doubt,dishonest,wrong,disreputable,quit
+leave,close,depart,resign,quota
+portion,fixed amount,limited number,quotation
+price,referral,estimated cost of job or service,quote
+repeat,cite,illustrate,instance,quotation,raise
+increase,mention,elevate,rally
+incite,assembly,give courage,random
+orderless,indiscriminate,done or chosen without prior thought,range
+variety,vary,series,scope,portfolio,rank
+position,classification,importance,ratchet
+increase by small amounts,rate
+measure,amount,decide,estimate,price,ratify
+endorse,make legal,rationale
+enquiry,reasons or principles (that explain a decision),inquiry,re-evaluate
+re-think,reach
+attain,arrive,achieve,communicate with,react
+be active,respond,reactive
+showing a response,ready-made
+pre-prepared,prepared in advance,reap
+accumulate,take,gather,gain,obtain,attain,benefit from,reasonable
+acceptable,appropriate,fair,moderate,rational,rebate
+refund,discount,recall
+remember,call something in,recap
+repeat,go over,give summary,recede
+retreat,become smaller,become weaker,withdraw,recipient
+receiver,acceptor,taker,reclaim
+restore,get back (something),recognise
+know,remember,see,recognize,recommend
+suggest,advise,reconcile
+pacify,make (figures) agree,reconstruct
+rebuild,remake,restore,record
+describe,written account,recoup
+get money back,recover,retrieve,recover
+get something back improvement,recoup,restore,recuperate
+improve,get money back,redefine
+change limits or nature of something,redress
+correct something,remedy,reduce
+lessen,shrink,make smaller,redundant
+jobless,useless,unused,refer
+describe,indicate,speak about,refine
+make pure,improve,purify,reform
+transform,make better,improve,refurbish
+repair,redecorate,Reg
+make,regain
+acquire,get something back,regarding
+about,concerning,relating to,region
+area,locality,register
+enrol enlist,officially record something,enroll,regress
+recede,fall back,make or become less advanced,regular
+frequent,usual,standard,regulate
+control,supervise,supervize,regulation
+rule,law,legislation,reimburse
+pay back (money),repay,reinforce
+strengthen,support,make stronger,reject
+inferior,unusable item,refuse to accept,related
+connected,akin,release
+liberate,make something available to free from duty,,reliable
+trustworthy,trusty,correct,true,credible,certain,relief
+help,aid,remedy
+cure,solution,improve bad situation,remote
+far,distant,secluded,remove
+dismiss from job,get rid of,take out,take away,rent
+lease,hire,repair
+mend,make good,fix,reply
+answer,rejoinder,reaction,response,represent
+sell for,act or speak for,deputise for,deputize for,symbolise,symbolize,reputable
+honest,honorable,respected,credible,established,well-regarded,trustworthy,request
+ask,require
+need,necessitate,fall short,rescue
+save,defend,research
+study,inquiry,experiment,reserve
+available,reshuffle
+change,change around,restructure,re-order,reorganise,reorganize,resilient
+strong,able to recover quickly,resistance
+opposition,dislike of,obstinacy,refusal to accept something,resolve
+find a solution,formally reach a decision intend,,resources
+means,supply of something,energy,energies,fuel,materials,respond
+reply,react,answer,cooperate,responsibility
+duty,onus,restraint
+limit,moderation,restrict
+limit amount or size of keep under control,result
+outcome,product,completion,retail
+sell,retain
+keep something,hold something back preserve,retract
+recant,withdraw a statement make smaller in amount or value,retrieve
+find,recoup,get something back,revamp
+repair,improve appearance of,review
+report,consider or examine something rectify,revoke
+cancel,not retain,end validity of,rise
+ascend,increase in amount or level,risk
+danger,peril,chance,speculate,rival
+competitor,contender,roadmap
+plan,vision,milestones,project,plan,masterplan,role
+function,position,rotate
+change regularly,pass to each member in regular order,ruin
+damage,spoil,make someone lose all their money,rules
+regulations,orders,running
+managing,operating,salary
+wages,pay,earnings,salvage
+restore,save,backup,sample
+tester,taste,example,small amount,satisfactory
+acceptable,sufficient,good enough,saturate
+drench,overproduce,over supply,savvy
+knowledge,understanding,scale
+range,spectrum,measure,gauge,schedule
+timetable,plan,list,scheme
+plan,system,scrap
+cancel,annul,piece,stop using,screen
+check,inquire,scrutinise
+scan,look at or examine closely,scrutinize,secondary
+inferior,unimportant,less important,section
+department,subdivision,part,department,secure
+safe,protected,achieve,seek
+pursue,look for,search,try to obtain,segment
+division,divide,part of something,select
+choose,pick,opt for,carefully chosen,excellent,seller
+vendor,trader,semi
+half,partly,incomplete,sensitive
+aware,understanding,discriminating,react quickly,(information) not to be shared,serve
+provide,help,spend time,do duty for,setback
+difficulty,problem,delay,hitch,shed
+decrease,emit,get rid of,ship
+send,transport,carry,shopper
+buyer,purchaser,short-staffed
+Short-handed,understaffed,shortage
+shortage,shortfall
+shortage,less (than is needed),shrewd
+intelligent,showing good judgment clever at understanding,simulate
+imitate,create artificially,sink
+decrease,deteriorate,suppress,situation
+circumstance,circumstances,predicament,position,matter,issue,subject,concern,job,opportunity,skill
+ability,competence,expertise,dexterity,skilled
+experienced,qualified,slash
+reduce,cut,slice
+a share,portion,piece,part,slogan
+by-line,tag line,maxim,advertisement,slump
+decline,decrease,deteriorate,sudden fall,smart
+intelligent,clever,advanced,snip-a-bargain
+good value,sole
+only,one,sort
+arrange,classification,put in order,a type (of something),sound
+reliable,sensible when making decisions,undamaged,good and thorough,in good condition,spec
+specification,detailed description,special
+unusual,chosen,out of the ordinary,specialist
+expert,highly skilled person,specific
+special,particular,clearly defined,precise and clear,specify
+explain,name,instruction
+split,divide,apportion,share
+sponsor,supporter,backer,patron,stable
+steady,unchanging,firmly fixed,stagnant
+inert,undeveloping,unchanging,not growing,standards,rules,regulations
+fall,decrease,fail,ruin,staple
+basic,important
+static,unchanging,undeveloping,not moving
+status,position,situation,prestige,level,statute
+law,legislation,formal rule,stipulate
+state clearly,demand,specify,stipulations
+requirements,conditions,demands,specifications,stranglehold
+complete control,retention,strapline
+slogan,strategic
+planned,strategy
+a plan,tactics,policy,stress
+pressure,importance,emphasis,emphasise,emphasize,strife
+contention,a quarrel,angry disagreement,stringent
+severe,very strict,strictly controlled,sue
+litigate,claim damages in court,sundry
+various,many,unimportant,superintend
+oversee,manage,supervise
+supply,provide,available
+support,help/er,aid,resource/s,encourage/ment,advocate,augment,bolster,protect/ion,insulate/insulation,addition,add to,surpass
+outdo,be superior,surplus
+glut,superfluity,extra,more than is needed,suspend
+delay,put off,prevent from happening or being used halt temporarily defer debar from job or duties temporarily as a punishment,swindle
+cheat,deceive,act fraudulently,tactical
+schematic,worked out,carefully planned,strategic,talent
+aptitude,natural ability,gift,passion,calling,tangible
+touchable,existing,clearly seen,target
+goal,aim,objective,task
+job,duty,piece of work,team
+group,unit,outfit,company,template
+model,mould,example mold,temporary
+short-term,non-permanent,makeshift,tender
+bid,offer,tentative
+experimental,cautious,provisional,not definite,,terminate
+end,conclude,close,finish,discontinue,territory
+area,zone,ground,pitch,text
+meaning,precept,written words,textile
+fabric,material,theory
+idea,opinion,supposition,thrive
+prosper,flourish,strong,healthy,successful
+tier,level,layer,series
+token,symbol,indication,trivial,gift,security,top flight
+best,most successful,highest,train
+teach,instruct,tutor,coach,mentor,educate,edify,nurture,develop,school,explain,impart,prepare,prime,demonstrate,illustrate
+training,learning,development,course,trainings,coaching,mentoring
+transfer,move over,carry,duplicate,displace
+transferable,moveable,negotiable,transportable,communicable
+transparent,clear,unambiguous,open,artless,not secret,understood
+ultimatum,conditions,final warning,threat,deadline,uncontested
+unopposed,undisputed,undertaking
+task,project,promise,agreement,commitment,undisclosed
+concealed,hidden,not made known,undue
+unreasonable,unnecessary,unwarranted,undeserving,uneconomic
+wasteful,unprofitable,unemployed
+jobless,unused
+unethical,immoral,dishonest,morally unacceptable,unexpired
+valid,remaining,still in force,unfriendly
+hostile,opposing,antagonistic,unique
+special,unusual,inimitable,one of a kind,unlawful
+illegal,illicit,unmanageable
+uncontrollable,disobedient,difficult to deal with,unofficial
+illegal,independent,unauthorised,unauthorized,unprofitable
+uneconomic,unproductive,profitless,unscrupulous
+dishonest,not fair,not honest,without morals,,unskilled
+untrained,unqualified,inexpert,unveil
+introduce,disclose,show (something),upbeat
+positive,enthusiastic,optimistic
+update,provide,modernise,modernize
+upkeep,maintenance,preservation,upmarket
+expensive,dear,good quality
+upsurge,sudden large increase
+used,second-hand,pre-owned,employed,utilised,utilized
+vacancy,job,job opening,job opportunity,vacant
+empty,used
+vacation,holiday,valid
+genuine,legally or officially acceptable
+value,worth,price,importance
+vanilla,ordinary,not special
+variable,changeable,non-uniform,vendee
+buyer,property purchaser
+vendor,seller,supplier
+venture,enterprise,speculate,undertaking,business
+verbal,spoken,unwritten,vet
+examine,check,screen (something or someone),viable
+possible,cost-effective,safe,likely,successful,
+virtual,almost,nearly,completely,electronic,digital,web-based,vision
+concept,idea,notion,plan,scheme,shape,dream,aspiration,ambition,wish,thought,intent,intention,void
+nullify,not legal,invalid,volatile
+excitable,transient,suddenly changeable,voluntary
+uncharged,fee,offered,done willingly,waged
+salaried,having regular paid work,employed,wake-up call
+sudden,warning,walkout,strike
+warranty,guarantee,security,wastage
+shrinkage,loss
+whistle-blower,informer
+bane,useless,wind-up
+close down,liquidate,terminate,cease,workforce
+staff,labour force,labor force,x-rated
+adult,pornographic,unsuitable for children and under-age people,yardstick
+gauge,a measure,yes
+okay,affirmative,confirmed,agreed,understood,yield
+produce,submit,relinquish,zeal
+keenness,willingness,enthusiasm,zenith
+summit,top,peak,zero hour
