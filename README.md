@@ -108,7 +108,8 @@ Following steps are performed during preprocessing:
 
 4. Calculate additional features from the experiment content
 
-### Feature Engineering
+## Feature Engineering
+
 Following groups of features are identified and created:
 
 1. Lexical & Syntactical - extract various features using nltk and textstat libraries
@@ -185,7 +186,7 @@ Steps performed:
   - 95.8% on emails content with quotations and domains (EQD) content classification experiment 
 which outperforms results presented in the SoA papers published on this task. 
 
-#### Suggestions for further improvements:
+## Suggestions for further improvements:
 
 1. Collect additional labeled email and other conversational datasets from business environments
 
