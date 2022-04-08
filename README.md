@@ -8,7 +8,7 @@
 ![Python](https://img.shields.io/badge/Python-3-brightgreen)
 ![Latest%20BERT](https://img.shields.io/badge/Latest%20BERT-v1.0-informational)
 
-# Informal Language in Business Email Communication (Business/Personal)
+# Informal Language in Corporate Email Communication (Business/Personal)
 
 Code for 'Effective methods for Email Classification: Is it a Business or Personal Email?' 
 URL for the paper 
