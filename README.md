@@ -74,6 +74,8 @@ Set:
 - All other settings in the `constants.py` file
 - Data files in the .csv format into the `root_dir/data` directory
 
+Alternatively, workflow could be run using  `bash/pipeline.sh` script with the same set of arguments.
+
 ## Code organization structure
 Directories:
 
