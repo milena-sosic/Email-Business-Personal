@@ -14,7 +14,7 @@ Code for 'Effective methods for Email Classification: Is it a Business or Person
 
 URL for the paper 
 
-Milena Šošić pd202030@matf.bg.ac.rs 
+Milena Šošić pd202030@alas.matf.bg.ac.rs
 
 Jelena Graovac jgraovac@matf.bg.ac.rs
 
