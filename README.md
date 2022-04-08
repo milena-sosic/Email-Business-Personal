@@ -79,17 +79,16 @@ Alternatively, workflow could be run using  `bash/pipeline.sh` script with the s
 ## Code organization structure
 Directories:
 
-- `/bash` - bash scripts for running pipeline.py and bert_experiments.py python scripts
-- `/data` - original labeled data files in .csv format and data preprocessed files
+- `/bash` - bash scripts for running pipeline.py script
+- `/data` - raw and preprocessed data files
 - `/exploration` - scripts for visualization and parameter search for traditional models (SGD-SVM, ExtraTrees)
-- `/lexicons` - morality, business related words, free email domains and personal names lexicons
+- `/lexicons` - morality, business related words and acronyms, free email domains and personal names lexicons
 - `/modeling` - scripts for creation and building traditional and deep learning models
 - `/models` - models created during experiments (.sav extension for tradional and .saved_models for
   deep learning models)
-- `/preprocess` - scripts for data preprocesing, features creation and normalization
-- `/results` - comparable results of models building, validation and testing for different experiments 
-  for established metrics and plots for visualization
-- `/text` - scripts for different ways of text representation - BoW, Tf-Idf and Embeddings vectors
+- `/preprocess` - scripts for data preprocesing, features extraction and selection
+- `/results` - results of models validation and tests for different experiments with visualization plots
+- `/text` - scripts to create text representation - BoW, Tf-Idf and Embeddings weights vectors
 
 
 ## Text Pre-Processing
