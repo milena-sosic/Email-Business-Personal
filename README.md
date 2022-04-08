@@ -64,7 +64,7 @@ Set:
 - `--test_id` argument to [berkeley, columbia] for test data selection
 - `--experiment` argument to [E, ED, EQ, EQD, B] for emails, emails with domains, emails with quotes, email with quotes and domains and email thread arc experiments respectively
 - `--vector_type` argument to [BOW, TFIDF, EMBD, META] to select emails vector representation
-- `--feature_type` argument to [LEX, CONV, RDY, EMO, MOR, EXP, NER, ALL] to select set of meta features
+- `--feature_type` argument to [LEX, CONV, NER, EXP, MOR, EMO, ALL] to select set of meta features
 - `--preprocess` argument to [true, false] for data preprocessing and features extraction
 - `--lemmatize` argument to [true, false] to lemmatize words during preprocessing
 - `--stop_words` argument to [true, false] to remove stop words during preprocessing
