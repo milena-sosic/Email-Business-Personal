@@ -83,7 +83,7 @@ Directories:
 - `/data` - raw and preprocessed data files
 - `/exploration` - scripts for visualization and parameter search for traditional models (SGD-SVM, ExtraTrees)
 - `/lexicons` - morality, business related words and acronyms, free email domains and personal names lexicons
-- `/modeling` - scripts for creation and building traditional and deep learning models
+- `/modeling` - scripts to build traditional and deep learning models
 - `/models` - models created during experiments (.sav extension for tradional and .saved_models for
   deep learning models)
 - `/preprocess` - scripts for data preprocesing, features extraction and selection
