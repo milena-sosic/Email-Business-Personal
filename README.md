@@ -1,6 +1,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3-brightgreen)
 ![Latest%20BERT](https://img.shields.io/badge/Latest%20BERT-v1.0-informational)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 # Informal Language in Business Email Communication (Business/Personal)
 
