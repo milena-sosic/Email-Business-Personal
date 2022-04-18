@@ -136,8 +136,7 @@ For each experiment, we are performing following steps to clean the data and pre
 
 4. Remove stopwords and lemmatize remaining words (optional)
 
-5. Calculate Bow, Tf-Idf and BERT Embeddings token weights over the preprocessed and cleaned dataset setting max_features= 10000, min_df=2 and 
-   max_df=0.9 (words appearing in less than 2 and in more than 90% of text are removed)
+5. Calculate Bow, Tf-Idf and BERT Embeddings token weights over the preprocessed and cleaned dataset 
 
 6. Split the data using train_test_split functionality from sklearn.model_selection library with 75/25 ratio 
    and apply different traditional and deep learning algorithms for models evaluation and final prediction 
