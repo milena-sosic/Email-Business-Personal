@@ -12,7 +12,7 @@
 
 Code for 'Effective methods for Email Classification: Is it a Business or Personal Email?' 
 
-URL for the paper 
+URL for the paper: https://doiserbia.nb.rs/img/doi/1820-0214/2022/1820-02142200034S.pdf
 
 Milena Šošić pd202030@alas.matf.bg.ac.rs
 
