@@ -165,8 +165,7 @@ Steps performed:
 1. Tokenize the text. Every document will be converted into a sequence of words identified by their token number. 
    To do this, we will use Tokenizer from keras.preprocessing.text. Length of vocab for BERT models is set to 30522. 
 
-2. Define input length for the embedding layer. Here we will calculate the length at various percentiles. 
-   Input length of 256 is default.
+2. Define input length for the embedding layer. Input length of 256 is default.
 
 3. Reshape target variable 
 
