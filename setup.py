@@ -26,7 +26,6 @@ setup(
     description='Emails classification on business and personal categories',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    #url='https://github.com/pepsico-ecommerce/NRM_transition',
     license='MIT',
     author='Milena Sosic',
     author_email='milena.sosic@gmail.com',
